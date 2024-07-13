@@ -26,4 +26,5 @@ This repository contains code used for the research paper titled **[Your Paper T
 3. Run the script
 4. The script will convert the Pascal VOC dataset to an integer-encoded format and save it in `finalCompletedir`.
 
-
+# Results
+## The notebook and script generate annotations and integer-encoded datasets, respectively. These results can be used for further analysis or as inputs to other models or tools.
