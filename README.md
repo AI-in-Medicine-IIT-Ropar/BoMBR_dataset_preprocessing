@@ -22,7 +22,8 @@ This repository contains code used for the research paper titled **[Your Paper T
  
 # Converting Pascal VOC to Integer-Encoded Dataset
 1. Open the 2_Pascal_to_Integer_Encoded_Dataset.py file.
-2. Set the paths for the input Pascal VOC directory and the output directory within the script:
-
+2. Set the paths for the segmentation class of the Pascal VOC dataset, the original images, and the output directory within the script.
+3. Run the script
+4. The script will convert the Pascal VOC dataset to an integer-encoded format and save it in `finalCompletedir`.
 
 
