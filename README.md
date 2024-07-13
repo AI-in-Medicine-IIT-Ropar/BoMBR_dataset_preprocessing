@@ -15,4 +15,14 @@ This repository contains code used for the research paper titled **[Your Paper T
 
 2. cd BoMBR_dataset_preprocessing
 
+# Usage
+## Converting Images to Annotations
+1. Open the Jupyter notebook 1_Images_to_Annotations_using_SAM.ipynb in your preferred environment (e.g., Jupyter Lab, Jupyter Notebook).
+2. Follow the instructions within the notebook to convert your images to annotations using the SAM method.
+ 
+# Converting Pascal VOC to Integer-Encoded Dataset
+1. Open the 2_Pascal_to_Integer_Encoded_Dataset.py file.
+2. Set the paths for the input Pascal VOC directory and the output directory within the script:
+
+
 
