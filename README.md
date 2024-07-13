@@ -11,5 +11,8 @@ This repository contains code used for the research paper titled **[Your Paper T
 ## Installation
 
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/repository.git
+   git clone https://github.com/AI-in-Medicine-IIT-Ropar/BoMBR_dataset_preprocessing.git
+
+2. cd BoMBR_dataset_preprocessing
+
+
