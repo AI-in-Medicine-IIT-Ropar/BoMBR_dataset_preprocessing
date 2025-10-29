@@ -1,7 +1,7 @@
 # BoMBR_dataset_preprocessing
 # Research Code for Image Annotation and Dataset Conversion
 
-This repository contains code used for the research paper titled **[Your Paper Title]**. The code includes tools for converting images to annotations and for converting Pascal VOC datasets to an integer-encoded format.
+This repository contains code used for the research paper titled **BoMBR: Bone Marrow Biopsy Dataset for Segmentation of Reticulin Fibers**. The code includes tools for converting images to annotations and for converting Pascal VOC datasets to an integer-encoded format.
 
 ## Files
 
